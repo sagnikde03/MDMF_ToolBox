@@ -1,4 +1,4 @@
-# MDMF Model Toolbox
+# MDMF Toolbox
 
 ## Introduction
 A Python toolbox for analyzing brain network dynamics and fitting the MDMF model.
@@ -137,7 +137,5 @@ If you use this toolbox in your research, please consider citing it:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-_Developed and maintained by Vishal Verma._
 
 
