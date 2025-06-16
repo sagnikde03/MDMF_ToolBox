@@ -126,7 +126,7 @@ If you use this toolbox in your research, please consider citing it:
 
 ```
 @misc{MDMFToolbox,
-  author = {Vishal Verma, Priyanka Chakroborty, Dipanjan Roy},
+  author = {Sagnik De, Priyanka Chakroborty, Dipanjan Roy},
   title = {MDMF Model Toolbox},
   year = {2025},
   url = {https://github.com/im-vishalverma/MDMF-Model-Toolbox}
